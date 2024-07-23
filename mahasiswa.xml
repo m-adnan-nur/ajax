@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DAFTAR>
+  <MAHASISWA>
+    <NIM>2010020001</NIM>
+    <NAMA>Abdullah</NAMA>
+    <JURUSAN>Teknik Informatika</JURUSAN>
+  </MAHASISWA>
+  <MAHASISWA>
+    <NIM>2010010002</NIM>
+    <NAMA>Firman</NAMA>
+    <JURUSAN>Sistem Komputer</JURUSAN>
+  </MAHASISWA>
+  <MAHASISWA>
+    <NIM>2010050003</NIM>
+    <NAMA>Ayra</NAMA>
+    <JURUSAN>Sistem Informasi</JURUSAN>
+  </MAHASISWA>
+</DAFTAR>
+
